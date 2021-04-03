@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User</string>
+    <string name="nameLabel">Name : </string>
+    <string name="namePlaceholder">name</string>
+    <string name="usernamePlaceholder">username</string>
+    <string name="usernameLabel">Username :</string>
+</resources>
